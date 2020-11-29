@@ -41,4 +41,4 @@ evtFiles.forEach(f => {
   client.on(eventName, event.bind(null, client))
 })
 
-client.login(process.env.AUTH_TOKEN) /* Inicia o Bot. */
+client.login('NzEyNjk5NDQ4OTIwMzc1MzY4.XsVXFQ.DJ3G2iVVZ4a9EIeayMV5Pv4qyvM') /* Inicia o Bot. */
